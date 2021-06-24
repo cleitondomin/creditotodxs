@@ -50,7 +50,7 @@ Mais informações sobre o programa neste [link](https://www.proway.com.br/teste
   - Logar na plataforma com o usuário criado e selecionar o ambiente também criado no momento do cadastro
   - Clicar em Environment-> Open Files
   ![Web 1](https://github.com/cleitondomin/creditotodxs/blob/main/assets/OpenFile.png)
-  - Selecionar o arquivo com extensão .OML (link)
+  - Selecionar o arquivo com extensão [.OML](https://github.com/cleitondomin/creditotodxs/blob/main/CreditoTodxs.oml)
 
 - Para compilar e executar basta apenas apertar F5 ou clicar no botão para publicar
 ![Web 1](https://github.com/cleitondomin/creditotodxs/blob/main/assets/BotaoVerde.png)
