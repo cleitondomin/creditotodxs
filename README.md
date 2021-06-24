@@ -60,6 +60,6 @@ Mais informações sobre o programa neste [link](https://www.proway.com.br/teste
 
 ## Autor
 
-Cleiton Roberto Domingues
-cleiton.domingues@outlook.com
-crdsistemas@gmail.com
+ Cleiton Roberto Domingues
+ cleiton.domingues@outlook.com
+ crdsistemas@gmail.com
